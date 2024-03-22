@@ -48,3 +48,7 @@ This dataset contains information about various airports.
 - **STATE**: State where the airport is located.
 - **COUNTRY**: Country where the airport is located.
 - **LATITUDE, LONGITUDE**: Geographic coordinates of the airport.
+### Dashboard:
+![](https://github.com/deepakkush02/Travel-Hospitality-Navigating-the-Complexities-of-Airline-and-Airport-Operations/blob/main/Dashboard%201.png)
+
+![](https://github.com/deepakkush02/Travel-Hospitality-Navigating-the-Complexities-of-Airline-and-Airport-Operations/blob/main/Dashboard%202.png)
